@@ -1,4 +1,4 @@
-# Risk-Analytics-and-Monte-Carlo-Simulation-Framework-for-Systematic-Trading-Strategies
+# Risk-Analytics-for-Systematic-Trading-Strategies
 
 
 ## Overview
